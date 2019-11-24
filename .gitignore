@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+**/.idea
+**/.DS_Store
+**/node_modules
+.vscode/
+*.code-workspace
+**/_server.log
+**/uploads
+_nodemon.log
+nginx_caches/
